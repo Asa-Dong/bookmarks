@@ -23,6 +23,9 @@
 - MySQL tokudb引擎初探 https://www.biaodianfu.com/tokudb.html
 - 100行Go代码实现容器 http://www.infoq.com/cn/articles/build-a-container-golang
 - Linux TCP/IP 协议栈调优 http://colobu.com/2014/09/18/linux-tcpip-tuning/
+- 大话redis设计实现 PPT https://www.slideshare.net/rfyiamcool/redis-62948731
+- MySQL索引背后的数据结构及算法原理 http://blog.codinglabs.org/articles/theory-of-mysql-index.html 
+- 如何实现一个malloc http://blog.codinglabs.org/articles/a-malloc-tutorial.html
 
 ## 运维
 - 使用Grafana监控Go应用 http://blog.csdn.net/leonpengweicn/article/details/67631615
@@ -39,7 +42,11 @@
 ## Homebrew
 - 替换及重置Homebrew默认源 https://lug.ustc.edu.cn/wiki/mirrors/help/brew.git
 
+## 书籍
+- Redis 设计与实现 http://redisbook.com/
+
 ### 源码
 - Nonblocking Lua MySQL driver for ngx_lua https://github.com/openresty/lua-resty-mysql
 - gops 列出和诊断go程序工具 https://github.com/google/gops
 - docker-library 各种官方image https://github.com/docker-library
+- 带有详细注释的 Redis 3.0 代码 https://github.com/huangz1990/redis-3.0-annotated 
