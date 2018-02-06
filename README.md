@@ -11,6 +11,7 @@
 - Go 命令教程 https://github.com/hyper0x/go_command_tutorial
 - Go 中文文档 http://docscn.studygolang.com/doc/
 - InfluxDB简明手册 https://xtutu.gitbooks.io/influxdb-handbook/content/
+- NSQ 指南 http://wiki.jikexueyuan.com/project/nsq-guide/intro.html
 
 ## 设计模式
 - go设计模式 https://github.com/tmrts/go-patterns
@@ -48,8 +49,10 @@
 - Redis 设计与实现 http://redisbook.com/
 - Docker — 从入门到实践 https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md
 
+
 ### 源码
 - Nonblocking Lua MySQL driver for ngx_lua https://github.com/openresty/lua-resty-mysql
 - gops 列出和诊断go程序工具 https://github.com/google/gops
 - docker-library 各种官方image https://github.com/docker-library
 - 带有详细注释的 Redis 3.0 代码 https://github.com/huangz1990/redis-3.0-annotated 
+- Linux命令大全搜索工具 https://github.com/jaywcjlove/linux-command 
