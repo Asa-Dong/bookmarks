@@ -8,7 +8,9 @@
 - Ansible中文手册 http://www.ansible.com.cn/index.html
 - postgres 中文手册 http://www.postgres.cn/document
 - 100个gdb小技巧 https://www.gitbook.com/book/wizardforcel/100-gdb-tips/details
-- GO 命令教程 https://github.com/hyper0x/go_command_tutorial
+- Go 命令教程 https://github.com/hyper0x/go_command_tutorial
+- Go 中文文档 http://docscn.studygolang.com/doc/
+- InfluxDB简明手册 https://xtutu.gitbooks.io/influxdb-handbook/content/
 
 ## 设计模式
 - go设计模式 https://github.com/tmrts/go-patterns
@@ -44,6 +46,7 @@
 
 ## 书籍
 - Redis 设计与实现 http://redisbook.com/
+- Docker — 从入门到实践 https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md
 
 ### 源码
 - Nonblocking Lua MySQL driver for ngx_lua https://github.com/openresty/lua-resty-mysql
