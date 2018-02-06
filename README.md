@@ -12,6 +12,7 @@
 - Go 中文文档 http://docscn.studygolang.com/doc/
 - InfluxDB简明手册 https://xtutu.gitbooks.io/influxdb-handbook/content/
 - NSQ 指南 http://wiki.jikexueyuan.com/project/nsq-guide/intro.html
+- MitmProxy 中文手册
 
 ## 设计模式
 - go设计模式 https://github.com/tmrts/go-patterns
